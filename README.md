@@ -36,6 +36,3 @@ Prof. Newton Licciardi (newton.licciardijr@gmail.com) - Laboratório de Processa
 ## Licença
 Este projeto é para fins educacionais. Consulte o autor para uso comercial.
 
----
-
-Essa sugestão resume o conteúdo dos arquivos de forma clara e estruturada, facilitando a compreensão para visitantes do repositório GitHub. Se precisar de ajustes, como adicionar seções sobre instalação ou exemplos de saída, ou se quiser que eu crie o arquivo diretamente, é só avisar!
